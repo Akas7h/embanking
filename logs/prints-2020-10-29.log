@@ -1,0 +1,7 @@
+23:09:04.726 [TestNG-tests-1] INFO  resources.base - LoginPage instance is created
+23:09:07.686 [TestNG-tests-1] INFO  resources.base - Button clicked
+23:09:07.766 [TestNG-tests-1] INFO  resources.base - Successfully validated test cases
+23:09:07.838 [TestNG-tests-1] INFO  resources.base - Driver is closed
+23:09:07.839 [TestNG-tests-1] INFO  resources.base - Driver need to initialize
+23:09:18.048 [TestNG-tests-1] TRACE resources.base - Driver initialized
+23:10:03.235 [TestNG-tests-1] INFO  resources.base - Button clicked
